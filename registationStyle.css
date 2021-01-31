@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+main{
+    background: url("img/bg.jpg") no-repeat center center fixed;
+    background-color: #cccccc; /* Used if the image is unavailable */
+    /*height: 100vh;  You must set a specified height */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.registation-section{
+    padding: 70px 0;
+}
+.registation-card{
+    min-width: 450px;
+    border-radius: 50px;
+    background: rgb(131,203,178);
+    background: linear-gradient(90deg, rgba(131,203,178,1) 1%, rgba(34,138,135,1) 39%, rgba(59,100,115,1) 100%);
+}
+input{
+    border-radius: 50px !important;
+    /*background-color: whitesmoke !important;*/
+}

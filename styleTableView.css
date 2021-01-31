@@ -1,0 +1,19 @@
+.table-section{
+    padding-bottom: 100px;
+}
+.btn-section{
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.dlt-tag{
+    color: black;
+}
+.update-tag{
+    color: black;
+}
+.dlt-tag:hover{
+    color: white;
+}
+.update-tag:hover{
+    color: white;
+}

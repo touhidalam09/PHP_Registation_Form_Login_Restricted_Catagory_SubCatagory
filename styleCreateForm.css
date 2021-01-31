@@ -1,0 +1,8 @@
+.form-section{
+    padding: 100px 0;
+}
+.cf-a-tag:hover{
+    padding-left: 15px;
+    border-radius: 25px;
+    transition: padding 1s;
+}
